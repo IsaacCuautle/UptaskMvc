@@ -1,0 +1,5 @@
+node_modules/
+src/
+vendor
+gulpfile.js
+.env
