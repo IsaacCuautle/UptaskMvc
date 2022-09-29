@@ -3,6 +3,7 @@
 Este es un pequeño administrador de proyectos, en el cual mediante una cuenta de usuario y contraseña se pueden crear/eliminar proyectos para posteriormente crear tareas dentro de estos y marcarlas como completadas o pendientes según sea necesario.
 
 **¿Que se utilizó?**
+
 Para este proyecto se utilizó; model view controller, php 8, sass, gulp, composer y node Js.
 
 **Imágenes del proyecto**
