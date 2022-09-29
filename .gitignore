@@ -1,5 +1,5 @@
 node_modules/
 src/
-vendor
+vendor/
 gulpfile.js
 .env
