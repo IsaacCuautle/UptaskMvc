@@ -1,7 +1,6 @@
 node_modules/
-src/
+
 vendor/*
 !vendor/composer/
 !vendor/autoload.php
-gulpfile.js
 .env
